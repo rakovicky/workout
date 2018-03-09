@@ -1,0 +1,32 @@
+Poèítadlo pøístupù
+
+AUTOR
+
+ - http://www.php.jonweb.cz
+
+FUNKCE
+
+ - poèítá pøístupy celkem, pøístupy za aktuální den a poèet ètenáøù on-line
+ - prodleva pro zapoèítání pøístupu z jedné IP adresy je 10 minut
+ - volba nastavení grafického nebo textového poèítadla
+ - vlastní nastavení barev a rozmìrù poèítadla - vše v pøehledné administraci
+ - nastavení hodnoty poèítadla
+
+INSTALACE
+
+ - vytvoøte si složku poc/ v koøenovém adresáøi vašeho webu a do ní rozbalte soubory obsažené ve staženém archivu poc.zip
+ - editujte soubor poc/admin.php, kde na øádku è.4 a è.5 nastavte pøihlašovací jméno a heslo do administrace poèítadla
+ - nastavte souborùm data.txt, ip.txt, nastaveni.txt a pocitadlo.png atributy (chmod) 777
+ - do stránek (soubory musí být zakonèeny koncovkou php), na kterých chcete zobrazovat poèítadlo, vložte následující kód na libovolné místo ve zdrojovém kódu:
+        <?php include("./poc/poc.php"); ?>
+ - vzhled poèítadla lze mìnit na adrese http://www.vas-web.cz/poc/admin.php
+
+PODMÍNKY
+
+ - autor PHP skriptu neruèí za škody vzniklé jeho užíváním
+ - autor dále neruèí za obsah zobrazovaný prostøednictvím tohoto PHP skriptu
+ - je zakázáno tento PHP skript vydávat za vlastní a to i po jeho úpravì
+ - veškeré zpìtné odkazy musí zùstat ve skriptu zachovány
+ - tento PHP skript je volnì šíøitelný
+ 
+Veškeré informace ohlednì instalace a nastavení naleznete na adrese http://www.php.jonweb.cz

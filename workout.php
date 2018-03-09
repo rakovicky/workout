@@ -1,0 +1,4 @@
+<?php 
+	echo "Mohli ste sa s tým stretnúť v súvislosti s rôznymi označeniami. Street workout, gheto workout, outdoor workout, prípadne kalistenika. Pri tejto športovej aktivite sa nepoužívajú moderné stroje a nepotrebujete k tomu žiadne drahé tréningové náradie. Postačí nájsť si vhodné miesto niekde v parku alebo na ulici, kde je k dispozícii aspoň nejaká tyč v podobe hrazdy alebo niekoľko jednoduchých preliezok. Potom je vašim jediným tréningovým nástrojom vaše telo a s trochou fantázie môžete absolvovať veľmi účinné cvičenie.";
+	echo "<img src='img/what_is_workout.jpg' height='50%' width='auto'> >";
+ ?>

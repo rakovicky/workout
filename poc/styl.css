@@ -1,0 +1,91 @@
+body, html {
+	padding: 0px;
+	background-color: #eeeeee;
+	font-family: arial, tahoma, verdana, sans-serif;
+	font-size: small;
+	color: #000000;
+}
+
+#main {
+	margin: 0px auto;
+	width: 500px;
+}
+
+h1 {
+	font-size: x-large;
+	text-align: center;
+	padding: 0px;
+	margin: 10px 0px 10px 0px;
+}
+
+h2 {
+	font-size: small;
+	font-weight: bold;
+	margin: 0px 0px 5px 10px;
+	padding: 0px;
+}
+
+h3 {
+	font-size: small;
+	font-weight: normal;
+	margin: 0px 0px 5px 30px;
+	padding: 0px;
+}
+
+.in {
+	margin: 10px 0px 10px 50px;
+}
+
+a {
+	color: #000000;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #000000;
+	text-decoration: none;
+}
+
+
+#info {
+	text-align: justify;
+	font-size: x-small;
+	margin-left: 15px;
+}
+
+form {
+	margin: 0px;
+	padding: 0px;
+}
+
+fieldset {
+	border: solid 1px #666666;
+	padding: 5px;
+	margin: 0px;
+}
+
+legend {
+	color: black;
+	padding: 0px 5px 0px 5px;
+	margin : 0px;
+	font-size: medium;
+	font-weight: bold;
+}
+
+
+input {
+	width: 100px;
+	height: 20px;
+	border: solid 1px black;
+	background-color: #dddddd;
+	color: black;
+	margin: 10px 0px 10px 50px;
+	padding: 0px;
+	font-family: arial, tahoma, verdana, sans-serif;
+	font-size: small;
+}
+
+.tlacitko {
+	width: 100px;
+	margin-top: 10px;
+}

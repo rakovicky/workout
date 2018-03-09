@@ -1,0 +1,1 @@
+a:10:{s:4:"styl";s:1:"2";s:5:"text1";s:6:"ffffff";s:5:"text2";s:6:"000000";s:4:"cara";s:6:"000000";s:7:"pozadi1";s:6:"eeeeee";s:7:"pozadi2";s:6:"000000";s:5:"sirka";s:3:"100";s:5:"vyska";s:2:"94";s:11:"vyska_kraje";s:2:"15";s:5:"pismo";s:1:"8";}

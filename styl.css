@@ -1,0 +1,22 @@
+h1 {
+	color: #0062BF;
+	text-align: center;
+	text-shadow: 0px 0px 6px #AAAAAA;
+}
+
+#galerie {
+	margin: 0 auto;	
+}
+
+#galerie img {
+	border: 1px solid gray;
+	padding: 6px;
+	box-shadow: 3px 3px 6px #999999;
+	margin-right: 6px;
+	max-height: 107; 
+	max-width: 160;
+}
+
+#galerie img:hover {
+	opacity: 0.7;
+}
